@@ -22,4 +22,4 @@ osem-stuff
   * Slope: -3.71235V/mm 
   * Max V: 4V
   * gain: 28.7K ohm (transimpedance amp.)
-  * dark noise: ~0.0009V
+  * dark noise: ~0.00087V
