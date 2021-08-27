@@ -18,8 +18,8 @@ osem-stuff
   * Thickness: 3 mm
 
 * Calibration
-  * Linear range: ~0.8mm
-  * Slope: -3.71235V/mm 
-  * Max V: 4V
+  * Linear range: ~1.15mm
+  * Slope: -2.803V/mm 
+  * Max V: 3.973V
   * gain: 28.7K ohm (transimpedance amp.)
   * dark noise: ~0.00087V
