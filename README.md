@@ -20,7 +20,7 @@ osem-stuff
 # Calibration
 * osem 1
   * Linear range: ~1.15mm
-  * Slope: -2.803V/mm , R^2 =  0.99818848
+  * Slope: -2.803V/mm, R^2 =  0.99818848
   * Max V: 3.973V
   * gain: 28.7K ohm (transimpedance amp.)
   * dark noise: ~0.00087V
